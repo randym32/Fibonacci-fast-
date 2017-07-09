@@ -6,7 +6,7 @@
 
    Why this technique?
    The pedagogial example to compute Fibonacci numbers is thru recursion.
-    Mainly to provide sn introduction to 
+    Mainly to provide an introduction to 
      * recursion,
      * transforming between recursion and iteration
      * the costs of each form of implementation; ie the memory cost of recursion
@@ -73,7 +73,7 @@ int main(int argc, char* argv[])
 
 #ifdef _MSC_VER
    // Another nicety.
-   // Tell the Microsoft Visual C/C++ environment to as much precision
+   // Tell the Microsoft Visual C/C++ environment to use as much precision
    // as it can.
    // Save the configuration of the FPU
    _controlfp_s(&control_word, 0, 0);
