@@ -7,6 +7,6 @@ This is a pity, as the exercise is an excellent springboard for understanding ma
 and computation.
 
 This code shows the simple next step on computing Fibonacci numbers "fast" -- with O(log n) time.
-It is relatively straightboard to adapt this to use a multi-precision format for numbers and compute
+It is relatively straightforward to adapt this to use a multi-precision format for numbers and compute
 arbitrarily large numbers.  (The code for performing multiplication and addition for these formats is a bit
 longer, so that will go into another repository... if ever.)
