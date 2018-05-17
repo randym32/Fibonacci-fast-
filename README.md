@@ -1,7 +1,7 @@
 # Fibonacci (fast)
 Computing a Fibonacci number is a standard exercise to teach students about recursion.
 
-However, go to the next step... and teach students how to compute a Fibonacci number /fast/.
+However, few go to the next step... and teach students how to compute a Fibonacci number /fast/.
 (The same is true for factorials!)
 This is a pity, as the exercise is an excellent springboard for understanding many issues related to algorithms
 and computation.
